@@ -1,3 +1,4 @@
 hello world java
 123
+CLAUDE AI :
 Claude is an AI assistant developed by a company called Anthropic. It's designed to understand natural language questions and have conversations, and can help with things like writing, coding, analyzing data, answering questions, summarizing documents, and solving complex problems. Claude is accessible through a chat interface (claude.ai), mobile and desktop apps, and via an API for developers who want to build it into their own tools. It's built around three core principles — being helpful, honest, and harmless — meaning it tries to genuinely assist with what you need while avoiding responses that could be misleading or harmful. It can be used for a wide range of tasks: coding, research, learning new topics, brainstorming ideas, and more.
